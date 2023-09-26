@@ -1,0 +1,14 @@
+Write algorithm for:-
+
+1) Print first N numers in reverse order
+	e.g. if N is 10
+	10, 9, 8, ......1
+2) Check if number is prime or not
+
+3) Factorial of a number
+
+4) Sum of digits of a number
+	e.g. if N is 123 then answer is 1+2+3
+
+5) First N terms of series (fibonacci)
+	1, 2, 3, 5, 8, 13, 21...........

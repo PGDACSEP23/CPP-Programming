@@ -1,0 +1,29 @@
+1. Write a program to check whether a number is primr or not.
+
+2. Write a program to generate first N prime numbers. Accept N from user.
+
+3. Write a program to generate following pyramid
+
+A
+AB
+ABC
+.....
+A..............Z
+
+4. Write a menu driven program to perform mathematical operations on two numbers.
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. Exit
+
+accept the menu option and numbers form user.
+
+5. Generate following pyramid , accept the level from the user as input
+1
+1   2
+1   2    3
+.....
+1................N where N is the level accepted as input.
+
+
